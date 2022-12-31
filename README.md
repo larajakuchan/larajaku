@@ -1,0 +1,2 @@
+# larajaku
+for github pages
