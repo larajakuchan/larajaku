@@ -1,2 +1,3 @@
-# larajaku
-for github pages
+# lara弱ちゃんページ
+
+Github pages用リポジトリ
