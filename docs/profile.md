@@ -1,3 +1,3 @@
-![profile](/icon.png)
+![profile](/images/icon.png)
 
 # Lara弱ちゃんpageにようこそ！
